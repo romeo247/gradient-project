@@ -1,0 +1,81 @@
+body{
+  background: #43c6ac; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #43c6ac, #f8ffae); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #43c6ac, #f8ffae); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+
+ul {
+  list-style-type: none;
+  margin:0px;
+  padding:
+}
+
+li {
+  float: left;
+  padding-right: 250px;
+  list-style:none;
+  display: inline-flex;
+  text-decoration:none;
+
+}
+
+nav {
+  display: block;
+  padding: 8px;
+  color:#ffffff;
+  font-size:23px;
+  decoration:none;
+}
+li a{
+  text-decoration:none;
+}
+
+p{
+  color:#ffffff;
+  font-size:80px;
+
+  position:absolute;
+  top:210px;
+  left:485px;
+  border:5px solid white;
+  padding:5px;
+  border-radius:20px;
+}
+
+a{
+  color:#ffffff;
+}
+
+
+
+
+a:hover{
+  color:#43c6ac;
+}
+
+
+
+
+.contact{
+  font-size: 20px;
+
+
+}
+
+h1{
+  color:#ffffff;
+  position: absolute;
+  left:42%;
+  top:250px;
+  font-size:45px;
+}
+
+
+p2{
+  color:#ffffff;
+  position: absolute;
+  top:50%;
+  left:34%
+
+}
